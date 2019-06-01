@@ -67,8 +67,7 @@ int main()
 {
   ios_base::sync_with_stdio(false);
   cin.tie(NULL);
-  makeSet(5);
-  cout << v[5]->data << endl;
+  
   makeSet(1);
   makeSet(2);
   makeSet(3);
